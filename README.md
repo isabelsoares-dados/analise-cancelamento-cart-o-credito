@@ -1,2 +1,2 @@
-# analise-cancelamento-cart-o-credito
+# analise-cancelamento-cartao-credito
 Credit card cancellation analysis — identifying the main reasons why customers cancel their cards
